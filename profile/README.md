@@ -1,3 +1,3 @@
 # Welcome
 
-[![Source Allies](../sa-logo.svg)](https://sourceallies.com/)
+[![Source Allies](sa-logo.svg)](https://sourceallies.com/)
