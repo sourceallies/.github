@@ -3,7 +3,7 @@
 Source Allies is a technology services company, powered by people in slippers!
 Our goal is to be the preferred place of employment for collaborative technologists seeking mastery.
 
-## Join our team!
+## Join our team! :wave:
 
 Our partners tell us we act like *owners*, not renters.
 Ownership means working towards the success of projects, not the completion of contracts.
